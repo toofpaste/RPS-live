@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b1a54d5.chunk.css",
+    "main.js": "/static/js/main.716e143a.chunk.js",
+    "main.js.map": "/static/js/main.716e143a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29bda4c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29bda4c3.js.map",
+    "static/js/2.747f86cf.chunk.js": "/static/js/2.747f86cf.chunk.js",
+    "static/js/2.747f86cf.chunk.js.map": "/static/js/2.747f86cf.chunk.js.map",
+    "static/js/3.2c7c8310.chunk.js": "/static/js/3.2c7c8310.chunk.js",
+    "static/js/3.2c7c8310.chunk.js.map": "/static/js/3.2c7c8310.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0b1a54d5.chunk.css.map": "/static/css/main.0b1a54d5.chunk.css.map",
+    "static/js/2.747f86cf.chunk.js.LICENSE.txt": "/static/js/2.747f86cf.chunk.js.LICENSE.txt",
+    "static/media/ads.c9fef00d.txt": "/static/media/ads.c9fef00d.txt",
+    "static/media/phone-outline-with-title.8342e959.svg": "/static/media/phone-outline-with-title.8342e959.svg",
+    "static/media/rock-icon-better.6f0aa105.png": "/static/media/rock-icon-better.6f0aa105.png",
+    "static/media/sharp-cut.f381a62c.wav": "/static/media/sharp-cut.f381a62c.wav",
+    "static/media/sharp-thud.840d618e.wav": "/static/media/sharp-thud.840d618e.wav",
+    "static/media/snap-paper.5c243d62.wav": "/static/media/snap-paper.5c243d62.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29bda4c3.js",
+    "static/js/2.747f86cf.chunk.js",
+    "static/css/main.0b1a54d5.chunk.css",
+    "static/js/main.716e143a.chunk.js"
+  ]
+}
